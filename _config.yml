@@ -1,6 +1,6 @@
 # Título y descripción de TU sitio
 title: Sujetxs Criticxs 
-description: Una descripción para tu sitio web.
+description: arte contemporáneo en tiempos de múltiples crisis
 
 # Tema
 theme: just-the-docs
@@ -12,4 +12,3 @@ baseurl: ""
 
 # Puedes mantener los links auxiliares si quieres
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
