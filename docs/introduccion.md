@@ -25,4 +25,4 @@ Abordaré estas cuestiones a través de un enfoque que considera a las y los art
 > Descola, P. (2017). The making of images. En T. Fillitz & P. van der Grijp (Eds.), An anthropology of contemporary art: Practices, markets, and collectors. Bloomsbury Academic, An imprint of Bloomsbury Publishing Plc.<br>
 > Holmes, D. R., & Marcus, G. E. (2008). Collaboration Today and the Re-Imagination of the Classic Scene of Fieldwork Encounter. Collaborative Anthropologies, 1(1), 81–101. https://doi.org/10.1353/cla.0.0003<br>
 > García Canclini, N. (2010). La sociedad sin relato: Antropología y estética de la inminencia (1. ed). Katz.<br>
-{: .note .fs-2 }
+{: .referencias .fs-2 }
