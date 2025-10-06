@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Entrevistas
-parent: introduccion
+parent: Introducción
 nav_order: 1
 ---
 
