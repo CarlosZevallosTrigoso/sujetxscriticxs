@@ -10,9 +10,9 @@
     font-family: "Lato", sans-serif !important;
   }
 
-  /* 2. Tamaño de fuente base a 18px */
+  /* 2. Tamaño de fuente base a 20px */
   html {
-    font-size: 18px !important;
+    font-size: 20px !important;
   }
 
   /* 3. Color del texto principal a negro */
@@ -23,10 +23,11 @@
 
   /* --- COLORES DE LA PÁGINA --- */
 
-  /* 4. Fondo de la barra de navegación superior a blanco */
-  .site-header {
+  /* 4. Fondo de la barra de navegación superior (header) a blanco */
+  /* Selector más específico para ganar la batalla de CSS     */
+  .site-header, .site-header.is-scrolled {
     background-color: #ffffff !important;
-    border-bottom: 1px solid #e5e5e5; /* Borde sutil para separar */
+    border-bottom: 1px solid #e5e5e5;
   }
 
   /* 5. Color de los enlaces a azul oscuro */
