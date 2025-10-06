@@ -1,22 +1,9 @@
 ---
 layout: default
 ---
-# Crítica y Crisis
-## Red de Estudios Multidisciplinarios sobre el Mundo Andino
 
-**Índice**
-{: .no_toc .text-delta }
+Este sitio web contiene información sobre mi investigación doctoral en antropología titulada: **"Subjetividades Críticas y Arte Contemporáneo en Lima: subjetividades críticas y prácticas artísticas en tiempos de múltiples crisis"**. En este espacio compartiré alguna información sobre el proyecto con el fin de socializar su proceso y algunos hallazgos preliminares.
 
-1. Contenidos
-{:toc}
----
+Para más información sobre el proyecto pueden escribirme un correo a czevallost@pucp.edu.pe
 
-*(Aquí puedes empezar a añadir más contenido con encabezados, por ejemplo:)*
-
-### ¿Quiénes somos?
-
-Texto sobre quiénes son...
-
-### Nuestros Proyectos
-
-Texto sobre los proyectos...
+**Autor:** Carlos Zevallos Trigoso
