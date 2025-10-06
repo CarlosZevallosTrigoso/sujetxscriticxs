@@ -1,0 +1,31 @@
+/* _sass/color_schemes/lato-theme.scss */
+
+// --- VARIABLES DEL TEMA ---
+
+// 1. Definir la fuente para toda la página
+$body-font-family: "Lato", sans-serif;
+
+// 2. Definir el color del texto principal a negro
+$text-color: #000000;
+
+// 3. Definir el color de los enlaces a azul oscuro
+$link-color: #00008B;
+
+// 4. Forzar el fondo de la barra de navegación a blanco
+$body-background-color: #ffffff;
+$sidebar-color: #ffffff;
+$feedback-color: #ffffff;
+
+
+// --- SOBREESCRITURAS DIRECTAS (CSS) ---
+
+// Esto es para la barra de navegación, que es más difícil de cambiar con variables
+.site-header, .site-header.is-scrolled {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+// Y finalmente, el tamaño de la fuente
+html {
+  font-size: 20px;
+}
