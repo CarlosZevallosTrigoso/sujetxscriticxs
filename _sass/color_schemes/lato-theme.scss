@@ -1,10 +1,21 @@
 // _sass/color_schemes/lato-theme.scss
 
-// 1. Establecer el color de los enlaces a azul
+// --- TAMAÑO Y COLOR DE TEXTO ---
+
+// 1. Aumentar el tamaño base de la fuente (de 16px a 17px)
+$root-font-size: 17px;
+
+// 2. Cambiar el color del texto principal a negro
+$text-color: #000;
+
+
+// --- OTRAS PERSONALIZACIONES (que ya tenías) ---
+
+// Establecer el color de los enlaces a azul
 $link-color: $blue-000;
 
-// 2. Asegurar que la barra lateral tenga fondo blanco
+// Asegurar que la barra lateral tenga fondo blanco
 $sidebar-color: $white;
 
-// Mantener la personalización de la fuente que ya tenías
+// Mantener la personalización de la fuente "Lato"
 $body-font-family: "Lato", sans-serif;
