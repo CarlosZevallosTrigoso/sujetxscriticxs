@@ -14,3 +14,14 @@ baseurl: ""
 
 # Puedes mantener los links auxiliares si quieres
 aux_links:
+
+# Añade este bloque al final del archivo
+callouts:
+  note:
+    title: Nota
+    color: purple
+  warning:
+    title: Advertencia
+    color: red
+  highlight:
+    color: yellow
