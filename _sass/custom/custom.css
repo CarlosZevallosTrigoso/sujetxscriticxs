@@ -1,11 +1,36 @@
 /* _sass/custom/custom.scss */
 
-/* 1. Cambiar el tamaño de fuente base de toda la página */
+/* ================================================
+   1. TAMAÑO Y COLOR DEL TEXTO
+   ================================================ */
+
+/* Tamaño de fuente base de toda la página a 20px */
 html {
-  font-size: 18px !important;
+  font-size: 20px !important;
 }
 
-/* 2. Cambiar el color del texto principal a negro */
+/* Color del texto en el contenido principal a negro */
 .main-content {
   color: #000000 !important;
+}
+
+
+/* ================================================
+   2. BARRA DE NAVEGACIÓN Y ENLACES
+   ================================================ */
+
+/* Fondo de la barra de navegación superior (header) a blanco */
+.site-header {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e5e5; /* Añadimos un borde sutil para que no se pierda */
+}
+
+/* Color de los enlaces del contenido a azul oscuro */
+.main-content a {
+  color: #00008B !important;
+}
+
+/* (Opcional) Color de los enlaces al pasar el ratón por encima */
+.main-content a:hover {
+  color: #0000CD !important;
 }
