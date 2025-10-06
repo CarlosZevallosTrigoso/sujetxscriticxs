@@ -4,25 +4,26 @@ title: Introducción
 nav_order: 2
 ---
 
-# Introducción
-{: .no_toc }
+### Introducción
 
-**Tabla de Contenidos**
-{: .no_toc .text-delta }
+En las últimas décadas, el arte contemporáneo ha emergido como un campo de producción cultural global, caracterizado por su naturaleza "internacional, expansionista y proliferante" (Smith, 2012). Este fenómeno, íntimamente ligado a los procesos de globalización, ha generado interacciones complejas entre lo local y lo global a través de flujos heterogéneos en diversas dimensiones (Appadurai, 1996). En el contexto peruano, la consolidación del arte contemporáneo como sistema se sitúa alrededor de 1997, con la primera Bienal Iberoamericana de Lima, marcando el inicio de prácticas artísticas que exploran formas más experimentales y participan en el flujo global del arte contemporáneo. Central a este campo es lo que propongo denominar un "mandato crítico", que presupone una articulación entre lo simbólico y lo social (Bishop, 2012; Giunta, 2014; Foster, 2020). Este mandato se manifiesta en la expectativa de que las y los artistas procesen, interpreten y discutan las problemáticas de su contexto, dotando su práctica de un sentido moral (Rancière, 2013; Bishop, 2012). En mi investigación doctoral, me interesa particularmente cómo este mandato crítico interactúa con las condiciones locales, especialmente en un contexto de múltiples crisis (sanitarias, ecológicas, económicas y políticas) que caracterizan el período reciente en el Perú.
 
-1. TOC
-{:toc}
+Me propongo analizar las prácticas artísticas contemporáneas locales en función de este mandato crítico, operando en un contexto caracterizado por múltiples crisis que han puesto en evidencia las condiciones de precariedad generalizada que permean todos los campos sociales, incluyendo el de la producción artística. Considero que la intersección entre este mandato crítico y las condiciones locales de producción genera una serie de fricciones (Tsing, 2005) y ambivalencias que son centrales para entender el arte contemporáneo en Lima. El objetivo general de mi investigación doctoral será analizar las tácticas creativas desplegadas por artistas visuales contemporáneos que viven y producen en Lima, en un campo de producción cultural delimitado por condiciones coyunturales, estructurales y discursivas. Específicamente, buscaré examinar cómo el "mandato crítico" afecta las decisiones productivas de las y los artistas, analizar la forma en que estas decisiones intervienen en sus obras, explorar sus reflexiones sobre la circulación y recepción de sus trabajos, e investigar cómo lidian con las contradicciones aparentes entre "mercado" y "acción política" en su práctica artística.
 
----
+Esta propuesta de investigación se inscribe en el interés de las antropologías del arte por estudiar procesos de creatividad y acción creativa (Morphy y Perkins, 2006), concibiendo al arte como un proceso inscrito en transformaciones sociales y sus representaciones. Buscaré abordar lo que Appadurai denomina "el trabajo de la imaginación" (1996), entendido como un campo organizado de prácticas sociales y una forma de negociación entre la agencia individual y campos de posibilidad definidos globalmente. Considero que la relevancia de mi estudio radica en su exploración de cómo el arte contemporáneo en Lima refleja y participa en la institución y mantenimiento de diferentes formas de "hacer mundos" (Descola, 2017), ofreciendo una perspectiva única sobre cómo se negocian las tensiones entre el mandato crítico global y las condiciones locales de producción.
 
-## Objetivos
+Abordaré estas cuestiones a través de un enfoque que considera a las y los artistas como "socios epistémicos" (Holmes y Marcus, 2008), reconociendo su capacidad reflexiva y su papel activo en la producción de conocimiento sobre su propia práctica. Esta aproximación, espero, contribuirá a la comprensión de cómo las artes interpretan la sociedad, anunciando transformaciones y reflejando tensiones sobre el futuro, en línea con la "estética de la inminencia" propuesta por García Canclini (2010).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac dolor molestie sem ornare scelerisque facilisis quis est. Mauris bibendum enim velit, vel euismod sem sollicitudin vitae. Ut faucibus leo et sem porttitor, in dapibus nulla malesuada. Sed gravida nisl ipsum, sit amet accumsan enim convallis quis. Donec auctor varius lobortis. Integer cursus euismod risus a pharetra. Aliquam dignissim diam eu nibh euismod faucibus. Suspendisse facilisis vehicula hendrerit. Mauris nec pretium odio.
-
-Nullam consequat mi quis lorem convallis commodo. Vivamus condimentum ornare hendrerit. Aliquam sed lobortis orci, pharetra blandit felis. Pellentesque risus est, dictum in nibh in, aliquam hendrerit risus. Duis congue, odio id sagittis dignissim, augue nisi tempus massa, eget faucibus est nisi non orci. Sed elit tellus, elementum non viverra nec, posuere eget enim. Mauris ac pharetra leo. Aenean euismod pharetra scelerisque. Fusce ut purus id orci faucibus tincidunt. Mauris at cursus lacus. Praesent faucibus tristique scelerisque. Donec fringilla, ex ac dignissim luctus, mi leo imperdiet purus, at aliquet justo justo quis risus. Etiam malesuada eu ex id efficitur. Sed tempor libero tortor, vel dapibus urna porta iaculis.
-
-## Hallazgos
-
-Mauris elit mauris, condimentum finibus tempor non, ultrices in neque. Morbi interdum egestas tellus ut suscipit. Cras eget mattis magna, a euismod ipsum. Aenean eleifend massa id maximus accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas odio mollis posuere sodales. Nam viverra euismod urna, in sagittis libero finibus eget. Suspendisse maximus, magna sed dignissim luctus, magna lorem lobortis est, ac luctus orci nulla ornare nibh. Mauris cursus ex lorem, sit amet bibendum ipsum blandit sit amet.
-
-Vestibulum blandit, massa sit amet egestas finibus, lorem nulla lacinia felis, sed suscipit lectus ex et odio. Maecenas ornare lectus non finibus congue. Curabitur accumsan, mi nec elementum euismod, augue velit pellentesque sapien, sed lobortis orci erat sed tellus. Sed eleifend eros ac tincidunt vehicula. Morbi porttitor massa urna, et vulputate magna rhoncus eget. Sed mattis blandit lorem eget interdum. Aenean velit mi, venenatis sit amet velit at, hendrerit pretium est.
+{:
+Smith, T. (2012). ¿Que es el arte contemporaneo? Siglo Veintiuno Editores.
+Appadurai, A. (1996). Modernity at large: Cultural dimensions of globalization. University of Minnesota Press.
+Bishop, C. (2012). Artificial hells: Participatory art and the politics of spectatorship. Verso Books.
+Giunta, A. (2014). ¿Cuándo empieza el arte contemporáneo? (A. Diez Fischer & T. Stuby, Eds.). Fundación arteBA.
+Foster, H. (2001). El artista como etnógrafo. En El retorno de lo real: La vanguardia a finales de siglo (pp. 175–208). Akal Ediciones.
+Rancière, J. (2013). Contemporary Art and the Politics of Aesthetics (2009). En Z. Kocur & S. Leung (Eds.), Theory in contemporary art since 1985 (Second edition). Wiley-Blackwell.
+Tsing, A. L. (2005). Friction: An ethnography of global connection. Princeton University Press.
+Morphy, H., & Perkins, M. (2006). The Anthropology of Art: A Reflection on its History and Contemporary Practice. En M. Perkins & H. Morphy (Eds.), The anthropology of art: A reader. Blackwell Pub.
+Descola, P. (2017). The making of images. En T. Fillitz & P. van der Grijp (Eds.), An anthropology of contemporary art: Practices, markets, and collectors. Bloomsbury Academic, An imprint of Bloomsbury Publishing Plc.
+Holmes, D. R., & Marcus, G. E. (2008). Collaboration Today and the Re-Imagination of the Classic Scene of Fieldwork Encounter. Collaborative Anthropologies, 1(1), 81–101. https://doi.org/10.1353/cla.0.0003
+García Canclini, N. (2010). La sociedad sin relato: Antropología y estética de la inminencia (1. ed). Katz.
+ .fs-3 }
