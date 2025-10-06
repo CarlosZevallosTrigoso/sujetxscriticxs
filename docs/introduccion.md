@@ -4,6 +4,10 @@ title: Introducción
 nav_order: 2
 ---
 
+**Índice**
+{: .no_toc .text-delta }
+
+
 ## Introducción
 {:toc}
 
