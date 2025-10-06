@@ -1,11 +1,11 @@
 /* _sass/custom/custom.scss */
 
-// 1. Cambiar el color del texto de todo el cuerpo de la página
+/* 1. Cambiar el color del texto de todo el cuerpo de la página */
 body {
-  color: #000000 !important; // !important fuerza a que se aplique
+  color: #000000 !important;
 }
 
-// 2. Cambiar el tamaño de letra base para el contenido principal
+/* 2. Cambiar el tamaño de letra base para el contenido principal */
 .main-content {
-  font-size: 20px !important; // !important fuerza a que se aplique
+  font-size: 20px !important;
 }
