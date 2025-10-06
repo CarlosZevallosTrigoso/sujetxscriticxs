@@ -14,6 +14,7 @@ Esta propuesta de investigación se inscribe en el interés de las antropología
 
 Abordaré estas cuestiones a través de un enfoque que considera a las y los artistas como "socios epistémicos" (Holmes y Marcus, 2008), reconociendo su capacidad reflexiva y su papel activo en la producción de conocimiento sobre su propia práctica. Esta aproximación, espero, contribuirá a la comprensión de cómo las artes interpretan la sociedad, anunciando transformaciones y reflejando tensiones sobre el futuro, en línea con la "estética de la inminencia" propuesta por García Canclini (2010).
 
+**Referencias**
 > Smith, T. (2012). ¿Que es el arte contemporaneo? Siglo Veintiuno Editores. <br>
 > Appadurai, A. (1996). Modernity at large: Cultural dimensions of globalization. University of Minnesota Press.<br>
 > Bishop, C. (2012). Artificial hells: Participatory art and the politics of spectatorship. Verso Books.<br>
