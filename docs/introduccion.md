@@ -16,25 +16,15 @@ Abordaré estas cuestiones a través de un enfoque que considera a las y los art
 
 ____
 <div class="text-small">
-Smith, T. (2012). ¿Que es el arte contemporaneo? Siglo Veintiuno Editores.
-  
-Appadurai, A. (1996). Modernity at large: Cultural dimensions of globalization. University of Minnesota Press.
-
-Bishop, C. (2012). Artificial hells: Participatory art and the politics of spectatorship. Verso Books.
-
-Giunta, A. (2014). ¿Cuándo empieza el arte contemporáneo? (A. Diez Fischer & T. Stuby, Eds.). Fundación arteBA.
-
-Foster, H. (2001). El artista como etnógrafo. En El retorno de lo real: La vanguardia a finales de siglo (pp. 175–208). Akal Ediciones.
-
-Rancière, J. (2013). Contemporary Art and the Politics of Aesthetics (2009). En Z. Kocur & S. Leung (Eds.), Theory in contemporary art since 1985 (Second edition). Wiley-Blackwell.
-
-Tsing, A. L. (2005). Friction: An ethnography of global connection. Princeton University Press.
-
-Morphy, H., & Perkins, M. (2006). The Anthropology of Art: A Reflection on its History and Contemporary Practice. En M. Perkins & H. Morphy (Eds.), The anthropology of art: A reader. Blackwell Pub.
-
-Descola, P. (2017). The making of images. En T. Fillitz & P. van der Grijp (Eds.), An anthropology of contemporary art: Practices, markets, and collectors. Bloomsbury Academic, An imprint of Bloomsbury Publishing Plc.
-
-Holmes, D. R., & Marcus, G. E. (2008). Collaboration Today and the Re-Imagination of the Classic Scene of Fieldwork Encounter. Collaborative Anthropologies, 1(1), 81–101. https://doi.org/10.1353/cla.0.0003
-
-García Canclini, N. (2010). La sociedad sin relato: Antropología y estética de la inminencia (1. ed). Katz.
+<p>Smith, T. (2012). ¿Que es el arte contemporaneo? Siglo Veintiuno Editores.
+<p>Appadurai, A. (1996). Modernity at large: Cultural dimensions of globalization. University of Minnesota Press.</p>
+<p>Bishop, C. (2012). Artificial hells: Participatory art and the politics of spectatorship. Verso Books.</p>
+<p>Giunta, A. (2014). ¿Cuándo empieza el arte contemporáneo? (A. Diez Fischer & T. Stuby, Eds.). Fundación arteBA.</p>
+<p>Foster, H. (2001). El artista como etnógrafo. En El retorno de lo real: La vanguardia a finales de siglo (pp. 175–208). Akal Ediciones.</p>
+<p>Rancière, J. (2013). Contemporary Art and the Politics of Aesthetics (2009). En Z. Kocur & S. Leung (Eds.), Theory in contemporary art since 1985 (Second edition). Wiley-Blackwell.</p>
+<p>Tsing, A. L. (2005). Friction: An ethnography of global connection. Princeton University Press.</p>
+<p>Morphy, H., & Perkins, M. (2006). The Anthropology of Art: A Reflection on its History and Contemporary Practice. En M. Perkins & H. Morphy (Eds.), The anthropology of art: A reader. Blackwell Pub.</p>
+<p>Descola, P. (2017). The making of images. En T. Fillitz & P. van der Grijp (Eds.), An anthropology of contemporary art: Practices, markets, and collectors. Bloomsbury Academic, An imprint of Bloomsbury Publishing Plc.</p>
+<p>Holmes, D. R., & Marcus, G. E. (2008). Collaboration Today and the Re-Imagination of the Classic Scene of Fieldwork Encounter. Collaborative Anthropologies, 1(1), 81–101. https://doi.org/10.1353/cla.0.0003</p>
+<p>García Canclini, N. (2010). La sociedad sin relato: Antropología y estética de la inminencia (1. ed). Katz.</p>
 </div>
