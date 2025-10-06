@@ -1,4 +1,10 @@
 // _sass/color_schemes/lato-theme.scss
-@import "./light";
 
+// 1. Establecer el color de los enlaces a azul
+$link-color: $blue-000;
+
+// 2. Asegurar que la barra lateral tenga fondo blanco
+$sidebar-color: $white;
+
+// Mantener la personalización de la fuente que ya tenías
 $body-font-family: "Lato", sans-serif;
