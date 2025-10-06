@@ -8,4 +8,4 @@ Este sitio web contiene información sobre mi investigación doctoral en antropo
 
 Para más información sobre el proyecto pueden escribirme un correo a czevallost@pucp.edu.pe
 
-**Autor:** [Carlos Zevallos Trigoso] (https://www.pucp.edu.pe/profesor/carlos-zevallos-trigoso)
+**Autor:** [Carlos Zevallos Trigoso](https://www.pucp.edu.pe/profesor/carlos-zevallos-trigoso)
