@@ -18,7 +18,7 @@ aux_links:
 # Añade este bloque al final del archivo
 callouts:
   note:
-    title: Nota
+    title:
     color: purple
   warning:
     title: Advertencia
