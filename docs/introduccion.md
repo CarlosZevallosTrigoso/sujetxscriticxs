@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 ## Introducción
+{:toc}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum fermentum eros in facilisis. Sed dolor turpis, blandit eget erat sed, auctor commodo felis. Aenean posuere massa eget ipsum tempor pulvinar. Vivamus tempus tellus et orci vehicula rutrum ac ut felis. Ut tincidunt lectus id massa auctor, a dignissim diam malesuada. Donec vel diam tellus. Cras viverra a nunc ac egestas. Cras et laoreet nulla. Praesent facilisis libero eu pharetra scelerisque. Pellentesque tempor a metus eget pharetra. Aliquam non nisi sapien. Integer aliquam lorem augue, in ullamcorper sem placerat non. Sed sit amet dolor ut nunc sagittis auctor. In maximus volutpat dolor sed maximus. Etiam sed mi nisl.
 
