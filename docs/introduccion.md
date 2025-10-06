@@ -4,13 +4,22 @@ title: Introducción
 nav_order: 2
 ---
 
-**Índice**
-{: .no_toc .text-delta }
-
 
 ## Introducción
 {:toc}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum fermentum eros in facilisis. Sed dolor turpis, blandit eget erat sed, auctor commodo felis. Aenean posuere massa eget ipsum tempor pulvinar. Vivamus tempus tellus et orci vehicula rutrum ac ut felis. Ut tincidunt lectus id massa auctor, a dignissim diam malesuada. Donec vel diam tellus. Cras viverra a nunc ac egestas. Cras et laoreet nulla. Praesent facilisis libero eu pharetra scelerisque. Pellentesque tempor a metus eget pharetra. Aliquam non nisi sapien. Integer aliquam lorem augue, in ullamcorper sem placerat non. Sed sit amet dolor ut nunc sagittis auctor. In maximus volutpat dolor sed maximus. Etiam sed mi nisl.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac dolor molestie sem ornare scelerisque facilisis quis est. Mauris bibendum enim velit, vel euismod sem sollicitudin vitae. Ut faucibus leo et sem porttitor, in dapibus nulla malesuada. Sed gravida nisl ipsum, sit amet accumsan enim convallis quis. Donec auctor varius lobortis. Integer cursus euismod risus a pharetra. Aliquam dignissim diam eu nibh euismod faucibus. Suspendisse facilisis vehicula hendrerit. Mauris nec pretium odio.
 
-Nullam porta ipsum dolor, vitae condimentum justo faucibus a. Maecenas pulvinar eros lacinia lobortis gravida. Vestibulum tristique mattis lorem in dapibus. Donec vestibulum lorem eget condimentum venenatis. In sit amet dolor consectetur neque facilisis malesuada. Sed vitae arcu sapien. Sed consectetur metus in sapien hendrerit, et ullamcorper enim blandit. Sed nunc tortor, vulputate ut sodales sed, fringilla sit amet metus. Sed aliquet, dui egestas laoreet facilisis, erat enim consectetur enim, in sollicitudin felis orci ac orci. Duis cursus consequat tellus eu ultricies. Curabitur quis sem lectus. Sed gravida urna sed nulla accumsan, a ultrices nunc facilisis. Mauris vestibulum pellentesque sapien in viverra. Cras tellus purus, rutrum tincidunt faucibus et, maximus suscipit magna. Donec rhoncus vel mi sed consectetur. Curabitur sit amet feugiat dolor, vel tempus risus.
+Nullam consequat mi quis lorem convallis commodo. Vivamus condimentum ornare hendrerit. Aliquam sed lobortis orci, pharetra blandit felis. Pellentesque risus est, dictum in nibh in, aliquam hendrerit risus. Duis congue, odio id sagittis dignissim, augue nisi tempus massa, eget faucibus est nisi non orci. Sed elit tellus, elementum non viverra nec, posuere eget enim. Mauris ac pharetra leo. Aenean euismod pharetra scelerisque. Fusce ut purus id orci faucibus tincidunt. Mauris at cursus lacus. Praesent faucibus tristique scelerisque. Donec fringilla, ex ac dignissim luctus, mi leo imperdiet purus, at aliquet justo justo quis risus. Etiam malesuada eu ex id efficitur. Sed tempor libero tortor, vel dapibus urna porta iaculis.
+
+## Objetivos
+{:toc}
+
+Mauris elit mauris, condimentum finibus tempor non, ultrices in neque. Morbi interdum egestas tellus ut suscipit. Cras eget mattis magna, a euismod ipsum. Aenean eleifend massa id maximus accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas odio mollis posuere sodales. Nam viverra euismod urna, in sagittis libero finibus eget. Suspendisse maximus, magna sed dignissim luctus, magna lorem lobortis est, ac luctus orci nulla ornare nibh. Mauris cursus ex lorem, sit amet bibendum ipsum blandit sit amet.
+
+Vestibulum blandit, massa sit amet egestas finibus, lorem nulla lacinia felis, sed suscipit lectus ex et odio. Maecenas ornare lectus non finibus congue. Curabitur accumsan, mi nec elementum euismod, augue velit pellentesque sapien, sed lobortis orci erat sed tellus. Sed eleifend eros ac tincidunt vehicula. Morbi porttitor massa urna, et vulputate magna rhoncus eget. Sed mattis blandit lorem eget interdum. Aenean velit mi, venenatis sit amet velit at, hendrerit pretium est.
+
+## Hallazgos
+{:toc}
+
+Ut vitae felis sit amet odio rutrum dignissim in vel dolor. Curabitur gravida elit vel nulla posuere tristique in ac nunc. Pellentesque egestas sapien tellus, imperdiet viverra elit cursus a. Nunc ultrices blandit arcu, ac volutpat sem imperdiet ut. Donec in blandit ante, ac fringilla dui. Mauris tempus ex at tellus tincidunt suscipit. Nulla interdum pretium viverra. Sed mollis rutrum quam et dictum. In dictum scelerisque mauris at pellentesque. Donec id felis vitae nunc hendrerit egestas.
