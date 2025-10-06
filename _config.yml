@@ -18,10 +18,15 @@ aux_links:
 # Añade este bloque al final del archivo
 callouts:
   note:
-    title: referencias
+    title: note
     color: purple
   warning:
     title: Advertencia
     color: red
   highlight:
     color: yellow
+  # ---  mis callouts ---
+  referencias:
+    title: Referencias
+    color: blue
+  # --------------------
