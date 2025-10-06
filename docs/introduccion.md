@@ -5,11 +5,12 @@ nav_order: 2
 ---
 
 # Introducción
+{: .no_toc }
 
-**Índice de la página**
+**Tabla de Contenidos**
 {: .no_toc .text-delta }
 
-1. Contenidos
+1. TOC
 {:toc}
 
 ---
@@ -24,4 +25,4 @@ Nullam consequat mi quis lorem convallis commodo. Vivamus condimentum ornare hen
 
 Mauris elit mauris, condimentum finibus tempor non, ultrices in neque. Morbi interdum egestas tellus ut suscipit. Cras eget mattis magna, a euismod ipsum. Aenean eleifend massa id maximus accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas odio mollis posuere sodales. Nam viverra euismod urna, in sagittis libero finibus eget. Suspendisse maximus, magna sed dignissim luctus, magna lorem lobortis est, ac luctus orci nulla ornare nibh. Mauris cursus ex lorem, sit amet bibendum ipsum blandit sit amet.
 
-Vestibulum blandit, massa sit amet egestas finibus, lorem nulla lacinia felis, sed suscipit lectus ex et odio. Macecenas ornare lectus non finibus congue. Curabitur accumsan, mi nec elementum euismod, augue velit pellentesque sapien, sed lobortis orci erat sed tellus. Sed eleifend eros ac tincidunt vehicula. Morbi porttitor massa urna, et vulputate magna rhoncus eget. Sed mattis blandit lorem eget interdum. Aenean velit mi, venenatis sit amet velit at, hendrerit pretium est.
+Vestibulum blandit, massa sit amet egestas finibus, lorem nulla lacinia felis, sed suscipit lectus ex et odio. Maecenas ornare lectus non finibus congue. Curabitur accumsan, mi nec elementum euismod, augue velit pellentesque sapien, sed lobortis orci erat sed tellus. Sed eleifend eros ac tincidunt vehicula. Morbi porttitor massa urna, et vulputate magna rhoncus eget. Sed mattis blandit lorem eget interdum. Aenean velit mi, venenatis sit amet velit at, hendrerit pretium est.
