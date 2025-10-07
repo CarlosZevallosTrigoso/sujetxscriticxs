@@ -4,7 +4,7 @@ description: arte contemporáneo en tiempos de múltiples crisis
 
 # Tema
 theme: just-the-docs
-color_scheme: lato-theme
+color_scheme: noto-sans-theme
 
 # URL y Baseurl para TU dominio
 # Esto es lo que soluciona el problema de CSS
