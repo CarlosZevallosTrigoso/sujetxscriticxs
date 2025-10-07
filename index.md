@@ -4,7 +4,7 @@ title: Inicio
 nav_order: 1
 ---
 
-Este sitio web contiene información sobre mi investigación doctoral en antropología titulada: **"Subjetividades Críticas y Arte Contemporáneo en Lima: subjetividades críticas y prácticas artísticas en tiempos de múltiples crisis"**. En este espacio compartiré alguna información sobre el proyecto con el fin de socializar su proceso y algunos hallazgos preliminares.
+Este sitio web contiene información sobre mi investigación doctoral en antropología títulada: **"Subjetividades críticas y arte contemporáneo en Lima: prácticas artísticas en tiempos de múltiples crisis"** En este espacio compartiré alguna información sobre el proyecto con el fin de socializar su proceso y algunos hallazgos preliminares.
 
 Puedes empezar a navegar el contenido visitando la [Introducción]({% link docs/introduccion.md %}).
 
