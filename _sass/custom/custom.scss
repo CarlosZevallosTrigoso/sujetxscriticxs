@@ -5,11 +5,11 @@
 // 1. Establecer el color de texto por defecto a negro.
 // Esto aplica a todos los elementos dentro del contenido principal.
 .main-content {
-  color: #000000;
+  color: #0a0a0a;
 
   // Asegura que todos los encabezados y párrafos también sean negros.
   h1, h2, h3, h4, h5, h6, p {
-    color: #000000;
+    color: #0a0a0a;
   }
 }
 
