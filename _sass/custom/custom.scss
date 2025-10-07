@@ -1,4 +1,36 @@
-// Establecer el tamaño de fuente por defecto para los párrafos a 18px
+/* _sass/custom/custom.scss */
+
+// --- ESCALA TIPOGRÁFICA Y COLORES PERSONALIZADOS ---
+
+// 1. Establecer el color de texto por defecto a negro.
+// Esto aplica a todos los elementos dentro del contenido principal.
+.main-content {
+  color: #000000;
+
+  // Asegura que todos los encabezados y párrafos también sean negros.
+  h1, h2, h3, h4, h5, h6, p {
+    color: #000000;
+  }
+}
+
+// 2. Definir una escala de tamaño de fuente coherente.
+
+// Tamaño base para los párrafos (cuerpo del texto).
 .main-content p {
-  font-size: 18px;
+  font-size: 18px; // Tu tamaño base deseado
+}
+
+// Encabezado de tercer nivel (subtítulos dentro de secciones).
+.main-content h3 {
+  font-size: 24px; // Inspirado en .fs-6
+}
+
+// Encabezado de segundo nivel (títulos de sección).
+.main-content h2 {
+  font-size: 32px; // Inspirado en .fs-7
+}
+
+// Encabezado de primer nivel (títulos de página).
+.main-content h1 {
+  font-size: 42px; // Inspirado en .fs-9
 }
