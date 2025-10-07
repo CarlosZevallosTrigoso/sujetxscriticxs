@@ -30,3 +30,8 @@ $sidebar-color: #ffffff;
   background-color: #ffffff !important;
   border-bottom: 1px solid #e5e5e5;
 }
+
+// 7. Forzar el tamaño de la fuente del cuerpo del texto
+body {
+  font-size: $root-font-size;
+}
