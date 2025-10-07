@@ -22,7 +22,7 @@
 
 // Encabezado de tercer nivel (subtítulos dentro de secciones).
 .main-content h3 {
-  font-size: 24px; // Inspirado en .fs-6
+  font-size: 24px !important; // Inspirado en .fs-6
 }
 
 // Encabezado de segundo nivel (títulos de sección).
