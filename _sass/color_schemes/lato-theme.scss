@@ -5,8 +5,8 @@
 // 1. Definir la fuente para toda la página
 $body-font-family: "Lato", sans-serif;
 
-// 2. Cambiar el tamaño de la fuente base a 18px
-$root-font-size: 18px;
+// 2. Cambiar el tamaño de la fuente base a 18px (¡ESTA ES LA LÍNEA CORRECTA!)
+$base-font-size: 18px !default;
 
 // 3. Cambiar los colores del texto a negro
 $text-color: #000000;
@@ -29,9 +29,4 @@ $sidebar-color: #ffffff;
 .site-header, .site-header.is-scrolled {
   background-color: #ffffff !important;
   border-bottom: 1px solid #e5e5e5;
-}
-
-// 7. Forzar el tamaño de la fuente del cuerpo del texto
-body {
-  font-size: $root-font-size;
 }
