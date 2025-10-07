@@ -34,3 +34,13 @@
 .main-content h1 {
   font-size: 42px; // Inspirado en .fs-9
 }
+// 3. Arreglo para que las clases de utilidad de tamaño de fuente
+//    funcionen en párrafos dentro de contenedores (como callouts).
+.fs-1 p,
+.fs-2 p,
+.fs-3 p,
+.fs-4 p,
+.fs-5 p,
+.fs-6 p {
+  font-size: inherit;
+}
