@@ -16,6 +16,6 @@ Para más información sobre el proyecto pueden escribirme un correo a **czevall
 
 También puedes ir a [este enlace para encontrar más info sobre mi.]({% link docs/acercade.md %})
 
-{: .important-nota }
+{: .important}
 Actualmente me encuentro desarrollando la fase de campo, por lo que esta plataforma tiene solo información muy general sobre el proyecto. En una siguiente etapa servirá para compartir hallazgos preliminares y otros materiales.
-{: .fs-1 }
+{: .fs-2 }
