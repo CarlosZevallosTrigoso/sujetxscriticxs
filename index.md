@@ -8,7 +8,7 @@ Este sitio web contiene información sobre mi investigación doctoral en antropo
 
 En este espacio compartiré alguna información sobre el proyecto con el fin de socializar su proceso y algunos hallazgos preliminares. 
 
-Puedes empezar a navegar el contenido visitando la [Introducción]({% link docs/introduccion.md %}).
+Puedes empezar a navegar el contenido visitando la [Introducción]({% link docs/introduccion.md %}){:target="_blank"}..
 
 Para más información sobre el proyecto pueden escribirme un correo a czevallost@pucp.edu.pe
 
