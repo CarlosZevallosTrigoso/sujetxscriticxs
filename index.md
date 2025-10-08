@@ -12,6 +12,6 @@ En este espacio compartiré alguna información sobre el proyecto con el fin de 
 
 Puedes empezar a navegar el contenido visitando la [Introducción]({% link docs/introduccion.md %})
 
-Para más información sobre el proyecto pueden escribirme un correo a czevallost@pucp.edu.pe
+Para más información sobre el proyecto pueden escribirme un correo a **czevallost@pucp.edu.pe**
 
-También puedes ir a [este enlace para encontrar más info sobre mi.]({% link docs/acercade.md %}){:target="_blank"}.
+También puedes ir a [este enlace para encontrar más info sobre mi.]({% link docs/acercade.md %})
