@@ -15,3 +15,7 @@ Puedes empezar a navegar el contenido visitando la [Introducción.]({% link docs
 Para más información sobre el proyecto pueden escribirme un correo a **czevallost@pucp.edu.pe**
 
 También puedes ir a [este enlace para encontrar más info sobre mi.]({% link docs/acercade.md %})
+
+{: .important-nota }
+Actualmente me encuentro desarrollando la fase de campo, por lo que esta plataforma tiene solo información muy general sobre el proyecto. En una siguiente etapa servirá para compartir hallazgos preliminares y otros materiales.
+{: .fs-1 }
