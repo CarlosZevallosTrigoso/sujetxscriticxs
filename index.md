@@ -4,7 +4,7 @@ title: Inicio
 nav_order: 1
 ---
 
-![Galería](/assets/images/galeria.png){: width="150px" }
+![Galería](/assets/images/galeria.png){: width="600px" }
 
 Este sitio web contiene información sobre mi investigación doctoral en antropología títulada: **"Subjetividades críticas y arte contemporáneo en Lima: prácticas artísticas en tiempos de múltiples crisis"** 
 
