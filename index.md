@@ -12,4 +12,4 @@ Puedes empezar a navegar el contenido visitando la [Introducción]({% link docs/
 
 Para más información sobre el proyecto pueden escribirme un correo a czevallost@pucp.edu.pe
 
-También puedes ir a este enlace para encontrar más info sobre mi [Acerca de]({% link docs/acercade.md %})
+También puedes ir a este enlace para encontrar más info sobre mi [Acerca de]({% link docs/acercade.md %}){:target="_blank"}.
